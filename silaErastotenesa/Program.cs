@@ -10,11 +10,11 @@ namespace silaErastotenesa
 
             for(int i = 2; i <= tablica.Length; i++)
             {
-                if (tablica[i] = true)
-                {
-                    for(int j = i*2; j<i ; j)
-                }
+                tablica[i] = true;
             }
+
+
+
         }
 
         static void Main(string[] args)
